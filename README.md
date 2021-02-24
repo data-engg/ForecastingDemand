@@ -1,6 +1,6 @@
 # ForecastingDemand
 
-The goal of this project is to :
+The goal of this project is :
 
 1. Understanding Big data in Retail domain
 2. Implementing a Lambda architecture to ingest and process data both for streaming and batch source

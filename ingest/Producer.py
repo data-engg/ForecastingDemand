@@ -7,7 +7,7 @@ from configparser import ConfigParser
 import getpass
 from kafka import KafkaProducer
 import json
-from common.cassandra import get_job_params
+from common.cassandra_util import get_job_params
 
 
 geo_region_cd = "US"
